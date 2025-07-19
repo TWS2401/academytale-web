@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1752940724|192413885';
+const CACHE_VERSION = '1752786682|13385832662';
 /** @type {string} */
 const CACHE_PREFIX = 'ACADEMYTALE-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
